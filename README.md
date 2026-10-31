@@ -49,6 +49,7 @@
 - [`文档与接线说明`](Training/docs/README.md)：JTAG 接线注意事项及文档索引
 - [`traindoc.docx`](Training/docs/traindoc.docx)：Zynq 开发基础与 Shell 移植培训文档
 - [`FormattExample.pdf`](Training/docs/FormattExample.pdf)：文档格式示例
+- [process_chart.docx](Training/docs/process_chart.docx)：嵌入式学习冲刺计划
 - [`购买参考`](Training/docs/购买参考/)：开发板及外设购买参考图片
 
 ### RaspberryPi
@@ -76,6 +77,7 @@
 | ZardFan334 | [未命名1.cpp](C++/ZardFan334/未命名1.cpp) | 使用辗转相除法计算两个非负整数的最大公约数 |
 | ZardFan334 | [4.cpp](C++/ZardFan334/4.cpp) | C++ 练习程序 |
 | ZardFan334 | [最后结果.cpp](C++/ZardFan334/最后结果.cpp) | 实现加减乘除和取模的计算器程序 |
+| swh0918 | [ball.cpp](C++/swh0918/ball/ball.cpp) | 判断输入是否为三位数并求各位数字之和 |
 
 ### Python
 
@@ -111,6 +113,7 @@ OpenColink-Stu/
 ├── STM32/
 │   └── billion605/JL-0100/STM32/
 ├── C++/
+│   ├── swh0918/ball/
 │   └── ZardFan334/
 ├── Python/
 │   └── 114514gyh1111/
